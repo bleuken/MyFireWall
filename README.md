@@ -1,4 +1,4 @@
 MyFireWall
 ==========
 
-Firewall Script for CentOS Dedicated Server
+Firewall Script for CentOS Server
